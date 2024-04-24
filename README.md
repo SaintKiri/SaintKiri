@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I suck; I procrastinate. 
+I know a little bit about everything :)
+
 <!--
 **SaintKiri/SaintKiri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
